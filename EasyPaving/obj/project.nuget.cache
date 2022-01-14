@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XfXUoqMDtUc0dYImN7PyuiXjAdazhgIAHNnw7X2HrE1M9mM1egWqRcmpl1RfSn9P7Se4mXiKXc85pdn4wCgFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kingsley Brodie\\Desktop\\asp.net\\projects\\EasyPaving_RazorPages\\code\\EasyPaving\\EasyPaving\\EasyPaving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kingsley Brodie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
